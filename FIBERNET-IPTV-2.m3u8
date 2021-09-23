@@ -1,0 +1,101 @@
+#EXTM3U url-tvg="http://190.160.50.10:34400/xmltv/xteve.xml" x-tvg-url="http://190.160.50.10:34400/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name="A&E HD" tvg-id="1000" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/A&E.jpg" group-title="",A&E HD
+http://190.160.50.10:34400/stream/48a0aefab1703e8137e5ac5b877882a4
+#EXTINF:0 channelID="x-ID.1" tvg-chno="1001" tvg-name="AXN HD" tvg-id="1001" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/AXN.jpg" group-title="",AXN HD
+http://190.160.50.10:34400/stream/868bfb201cef4a28c50e0e50d28371fe
+#EXTINF:0 channelID="x-ID.2" tvg-chno="1002" tvg-name="Animal Planet HD" tvg-id="1002" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ANIMAL_PLANET.jpg" group-title="",Animal Planet HD
+http://190.160.50.10:34400/stream/e781c195396566519d2a28b6d3bfea51
+#EXTINF:0 channelID="x-ID.3" tvg-chno="1003" tvg-name="Azcorazon" tvg-id="1003" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/AZCORAZON.jpeg" group-title="",Azcorazon
+http://190.160.50.10:34400/stream/77249a35c4ace753e4887e7d923691f5
+#EXTINF:0 channelID="x-ID.4" tvg-chno="1004" tvg-name="Boomerang" tvg-id="1004" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/BOOMERANG.jpg" group-title="",Boomerang
+http://190.160.50.10:34400/stream/b5aea7551e0b2360441b69b5e169c53a
+#EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name=" CARTOON NT HD" tvg-id="1005" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CARTOON_NETWORK.jpg" group-title="", CARTOON NT HD
+http://190.160.50.10:34400/stream/7f1588635f4d1a5346557185818b3c13
+#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="CNN Español" tvg-id="1006" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CNN_ESPANOL.jpg" group-title="",CNN Español
+http://190.160.50.10:34400/stream/932f23ecb78cbe28735dbad857163df8
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="Canal 3 - GUA" tvg-id="1007" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CANAL3.png" group-title="",Canal 3 - GUA
+http://190.160.50.10:34400/stream/8549d8c709562ff6166727b13dfda4c6
+#EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="Canal 7 - GUA" tvg-id="1008" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CANAL_7_TELEVISIETE.jpg" group-title="",Canal 7 - GUA
+http://190.160.50.10:34400/stream/f900fffd9fc79c6275ce19c032b0c5e0
+#EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="CineMax" tvg-id="1009" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CINEMAX.jpg" group-title="",CineMax
+http://190.160.50.10:34400/stream/932f23ecb78cbe28735dbad857163df8
+#EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="Claro Musica" tvg-id="1010" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/claro_musica.jpg" group-title="",Claro Musica
+http://190.160.50.10:34400/stream/b0da97030114bcc2f6d66a75de3e4eb9
+#EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="Claro Sports  HD" tvg-id="1011" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CLAROSPORT.jpg" group-title="",Claro Sports  HD
+http://190.160.50.10:34400/stream/8f62571bdbaefc52b8d8c5a94b1bf5be
+#EXTINF:0 channelID="x-ID.12" tvg-chno="1012" tvg-name="Comedy Central HD" tvg-id="1012" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/COMEDY_CENTRAL.jpg" group-title="",Comedy Central HD
+http://190.160.50.10:34400/stream/6f0cb1462d8a4e1d44f7eae9c999a900
+#EXTINF:0 channelID="x-ID.13" tvg-chno="1013" tvg-name="Discovery Channel HD" tvg-id="1013" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/DISCOVERY_CHANNEL.jpg" group-title="",Discovery Channel HD
+http://190.160.50.10:34400/stream/901ca5d54453a790814a4ef2d43dd704
+#EXTINF:0 channelID="x-ID.14" tvg-chno="1014" tvg-name="Discovery Kids HD" tvg-id="1014" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/DISCOVERY_KIDS.jpg" group-title="",Discovery Kids HD
+http://190.160.50.10:34400/stream/f90d004eb5064d58787f7d621d25c4be
+#EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="Disney Channel" tvg-id="1015" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/DISNEY_CHANNEL.jpg" group-title="",Disney Channel
+http://190.160.50.10:34400/stream/ee041f6b48a58ded595462f1532145e6
+#EXTINF:0 channelID="x-ID.16" tvg-chno="1016" tvg-name="Disney JR" tvg-id="1016" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/Disney_JR.jpg" group-title="",Disney JR
+http://190.160.50.10:34400/stream/908ba59c52c870a60a1073b4de5f5879
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="Disney XD" tvg-id="1017" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/DISNEY_XD.jpg" group-title="",Disney XD
+http://190.160.50.10:34400/stream/4a25e30cb993a4d5a5ecafe860eebfd8
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="ESPN  +" tvg-id="1018" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ESPN+.jpg" group-title="",ESPN  +
+http://190.160.50.10:34400/stream/c6b00393fd70324f5f1d9425e84f4570
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="ESPN 2 HD" tvg-id="1019" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ESPN2.jpg" group-title="",ESPN 2 HD
+http://190.160.50.10:34400/stream/2089fa56131f28d193626ce4e5bd0a00
+#EXTINF:0 channelID="x-ID.20" tvg-chno="1020" tvg-name="ESPN 3 HD" tvg-id="1020" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ESPN3.jpg" group-title="",ESPN 3 HD
+http://190.160.50.10:34400/stream/e227c00759ad1fc0a1ae9a13cfe9ebd4
+#EXTINF:0 channelID="x-ID.21" tvg-chno="1021" tvg-name="ESPN HD" tvg-id="1021" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ESPN.jpg" group-title="",ESPN HD
+http://190.160.50.10:34400/stream/5cdedd9f35eaa0a78712df5ec77f22d8
+#EXTINF:0 channelID="x-ID.22" tvg-chno="1022" tvg-name="FOX SPORTS 2 HD" tvg-id="1022" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/FOX_SPORTS2.jpg" group-title="",FOX SPORTS 2 HD
+http://190.160.50.10:34400/stream/f7b1c41b35b03844ff1c950833e249f2
+#EXTINF:0 channelID="x-ID.23" tvg-chno="1023" tvg-name="FOX SPORTS 3 HD" tvg-id="1023" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/FOX_SPORTS3.jpg" group-title="",FOX SPORTS 3 HD
+http://190.160.50.10:34400/stream/16663f6f5d52dd855514327eed3e18a9
+#EXTINF:0 channelID="x-ID.24" tvg-chno="1024" tvg-name="Fox Sports  HD" tvg-id="1024" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/FOX_SPORTS.jpg" group-title="",Fox Sports  HD
+http://190.160.50.10:34400/stream/7a4aea437c5137143bafcb7691944aae
+#EXTINF:0 channelID="x-ID.25" tvg-chno="1025" tvg-name="FX HD" tvg-id="1025" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/FX.jpg" group-title="",FX HD
+http://190.160.50.10:34400/stream/ae7e61cb8cb0a4a777fc09f63a7c2176
+#EXTINF:0 channelID="x-ID.26" tvg-chno="1026" tvg-name="Golden" tvg-id="1026" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/Golden.jpg" group-title="",Golden
+http://190.160.50.10:34400/stream/7437f6752f7571549d45a16caab08ac9
+#EXTINF:0 channelID="x-ID.27" tvg-chno="1027" tvg-name="History 2" tvg-id="1027" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/H2.jpg" group-title="",History 2
+http://190.160.50.10:34400/stream/415377ec6dcda0aabd48350560112781
+#EXTINF:0 channelID="x-ID.28" tvg-chno="1028" tvg-name="HBO Family HD" tvg-id="1028" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HBO_FAMILY.jpg" group-title="",HBO Family HD
+http://190.160.50.10:34400/stream/2febdcebe6b3483b85f4adc0b225ed64
+#EXTINF:0 channelID="x-ID.29" tvg-chno="1029" tvg-name="HBO HD" tvg-id="1029" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HBO.jpg" group-title="",HBO HD
+http://190.160.50.10:34400/stream/68329151ed2f6df44046e6510d99d6a6
+#EXTINF:0 channelID="x-ID.30" tvg-chno="1030" tvg-name="HBO Plus HD" tvg-id="1030" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HBO_PLUS.jpg" group-title="",HBO Plus HD
+http://190.160.50.10:34400/stream/fb6fb96646bf721f93dfb6d2501f6577
+#EXTINF:0 channelID="x-ID.31" tvg-chno="1031" tvg-name="HBO XTREME" tvg-id="1031" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HBO_XTREAME.jpg" group-title="",HBO XTREME
+http://190.160.50.10:34400/stream/95c0942163b6b9f94ced85c9931094ff
+#EXTINF:0 channelID="x-ID.32" tvg-chno="1032" tvg-name="HBO2 HD" tvg-id="1032" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HBO_2.jpg" group-title="",HBO2 HD
+http://190.160.50.10:34400/stream/a15ddead9af5c64ef6fc294d78273626
+#EXTINF:0 channelID="x-ID.33" tvg-chno="1033" tvg-name="History HD" tvg-id="1033" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HISTORY_CHANNEL.jpg" group-title="",History HD
+http://190.160.50.10:34400/stream/4deb5db6b80133c450e97950619b994c
+#EXTINF:0 channelID="x-ID.34" tvg-chno="1034" tvg-name="La voz de Maria" tvg-id="1034" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/la_voz_de_maria.jpg" group-title="",La voz de Maria
+http://190.160.50.10:34400/stream/2c2523108b9f3209f19f0cb198ffce6c
+#EXTINF:0 channelID="x-ID.35" tvg-chno="1035" tvg-name="MTV SIM HD" tvg-id="1035" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/MTV_SIM.png" group-title="",MTV SIM HD
+http://190.160.50.10:34400/stream/b0c74f5321dbbdf122e440305ee1a585
+#EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="Nat Geo HD" tvg-id="1036" tvg-logo="https://raw.githubusercontent.com/citzep97/FIBERNET-IPTV/main/NATIONAL_GEOGRAPHIC.jpg" group-title="",Nat Geo HD
+http://190.160.50.10:34400/stream/932f23ecb78cbe28735dbad857163df8
+#EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="Nat Geo Kids" tvg-id="1037" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/NATGEO_KIDS.jpg" group-title="",Nat Geo Kids
+http://190.160.50.10:34400/stream/95830ac348f695870feea7caad0a6ab2
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="Nick Jr" tvg-id="1038" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/NICK_JR.jpeg" group-title="",Nick Jr
+http://190.160.50.10:34400/stream/b061e19c9dabe0935121233d9a3b2bda
+#EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="Nickelodeon HD" tvg-id="1039" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/Nickelodeon.jpg" group-title="",Nickelodeon HD
+http://190.160.50.10:34400/stream/61ed8c3d41ce6cc57f2350a754f4a3a6
+#EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="Paramount HD" tvg-id="1040" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/PARAMOUNT.jpeg" group-title="",Paramount HD
+http://190.160.50.10:34400/stream/44438c5eeee7ddfbcec503148bf4148c
+#EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="Pasiones HD" tvg-id="1041" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/PASIONES.png" group-title="",Pasiones HD
+http://190.160.50.10:34400/stream/9bc84de77d7a8974e68b50a1c42da164
+#EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="SONY HD" tvg-id="1042" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/SONY.jpg" group-title="",SONY HD
+http://190.160.50.10:34400/stream/e03284e820724a146ee0ac65e42ad2d1
+#EXTINF:0 channelID="x-ID.43" tvg-chno="1043" tvg-name="SPACE HD" tvg-id="1043" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/SPACE_HD.jpg" group-title="",SPACE HD
+http://190.160.50.10:34400/stream/30e812b5ea5b73028a870b3fd58c8e32
+#EXTINF:0 channelID="x-ID.44" tvg-chno="1044" tvg-name="STAR COMEDY HD" tvg-id="1044" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/FOX_PREMIUM_COMEDY.jpg" group-title="",STAR COMEDY HD
+http://190.160.50.10:34400/stream/932f23ecb78cbe28735dbad857163df8
+#EXTINF:0 channelID="x-ID.45" tvg-chno="1045" tvg-name="Studio Universal HD" tvg-id="1045" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/STUDIO_UNIVERSAL.jpg" group-title="",Studio Universal HD
+http://190.160.50.10:34400/stream/fe804da94e82db612367766302ac8932
+#EXTINF:0 channelID="x-ID.46" tvg-chno="1046" tvg-name="TBN Enlace" tvg-id="1046" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ENLACE.jpg" group-title="",TBN Enlace
+http://190.160.50.10:34400/stream/43f4e844e119675ca6d1c6f1b5377d8e
+#EXTINF:0 channelID="x-ID.47" tvg-chno="1047" tvg-name="TNT Series HD" tvg-id="1047" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/TNT_SERIES.png" group-title="",TNT Series HD
+http://190.160.50.10:34400/stream/932f23ecb78cbe28735dbad857163df8
+#EXTINF:0 channelID="x-ID.48" tvg-chno="1048" tvg-name="Telemundo HD" tvg-id="1048" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/TELEMUNDO_ INTERNACIONAL.jpg" group-title="",Telemundo HD
+http://190.160.50.10:34400/stream/2565c0c156cb27b734113436d0fbf81a
+#EXTINF:0 channelID="x-ID.49" tvg-chno="1049" tvg-name="WARNER HD" tvg-id="1049" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/WARNER.jpg" group-title="",WARNER HD
+http://190.160.50.10:34400/stream/932f23ecb78cbe28735dbad857163df8
