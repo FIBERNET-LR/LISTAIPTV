@@ -231,3 +231,21 @@ http://192.168.99.98:8000/play/a0ih/index.m3u8
 http://192.168.99.98:8000/play/a0kr/index.m3u8
 #EXTINF:-1,WARNER HD
 http://192.168.99.98:8000/play/a0ho/index.m3u8
+#EXTINF:-1,CANAL 5 HD
+http://etvhome.com:25461/fiber/net/14070
+#EXTINF:-1,TUDN HD
+http://etvhome.com:25461/fiber/net/31576
+#EXTINF:-1,TVC DEPORTES HD
+http://etvhome.com:25461/fiber/net/37723
+#EXTINF:-1,beiN SPORTS Ñ HD
+http://etvhome.com:25461/fiber/net/90823
+#EXTINF:-1,AZTECA 7  HD
+http://etvhome.com:25461/fiber/net/14058
+#EXTINF:-1,TIGO SPORTS +
+http://etvhome.com:25461/fiber/net/28554
+#EXTINF:-1,TIGO HD
+http://etvhome.com:25461/fiber/net/87001
+#EXTINF:-1,DISTRITO COMEDIA HD
+http://etvhome.com:25461/fiber/net/97721
+#EXTINF:-1,TLNOVELAS
+http://etvhome.com:25461/fiber/net/14103
