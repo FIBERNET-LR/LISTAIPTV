@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/fiberplay.png", FiberPlay HD
-http://192.168.99.97:8080/livestream/stream.m3u8
+#EXTINF:-1, CNN International
+http://192.168.99.98:8000/play/a0g2/index.m3u8
+#EXTINF:-1, CNN en Español
+http://192.168.99.98:8000/play/a0gi/index.m3u8
 #EXTINF:-1,A&E HD
 http://192.168.99.98:8000/play/a0gt/index.m3u8
 #EXTINF:-1,AMC HD
@@ -15,22 +17,22 @@ http://192.168.99.98:8000/play/a0gq/index.m3u8
 http://192.168.99.98:8000/play/a0g6/index.m3u8
 #EXTINF:-1,Azmundo
 http://192.168.99.98:8000/play/a0h8/index.m3u8
+#EXTINF:-1,Azteca 7  HD
+http://etvhome.com:25461/camilcar/camilcar123/14058
 #EXTINF:-1,Boomerang
 http://192.168.99.98:8000/play/a0g0/index.m3u8
 #EXTINF:-1,CARTOON NT HD
 http://192.168.99.98:8000/play/a0l0/index.m3u8
-#EXTINF:-1,CCN
-http://192.168.99.98:8000/play/a0g2/index.m3u8
 #EXTINF:-1,CINECANAL HD
 http://192.168.99.98:8000/play/a0hq/index.m3u8
-#EXTINF:-1,CNNE
-http://192.168.99.98:8000/play/a0gi/index.m3u8
 #EXTINF:-1,Canal 11 - GUA
 http://192.168.99.98:8000/play/a0jk/index.m3u8
 #EXTINF:-1,Canal 13-GUA
 http://192.168.99.98:8000/play/a0jj/index.m3u8
 #EXTINF:-1,Canal 3 - GUA
 http://192.168.99.98:8000/play/a0h5/index.m3u8
+#EXTINF:-1,Canal 5 HD
+http://192.168.99.98:8000/play/a005/index.m3u8
 #EXTINF:-1,Canal 7 - GUA
 http://192.168.99.98:8000/play/a0h4/index.m3u8
 #EXTINF:-1,Canal Antigua - GUA
@@ -45,8 +47,6 @@ http://192.168.99.98:8000/play/a0fw/index.m3u8
 http://192.168.99.98:8000/play/a0ik/index.m3u8
 #EXTINF:-1,CineMax
 http://192.168.99.98:8000/play/a0il/index.m3u8
-#EXTINF:-1,Cinema Dinamita
-http://192.168.99.98:8000/play/a0in/index.m3u8
 #EXTINF:-1,Claro Cinema
 http://192.168.99.98:8000/play/a0hl/index.m3u8
 #EXTINF:-1,Claro Musica
@@ -79,6 +79,8 @@ http://192.168.99.98:8000/play/a0i8/index.m3u8
 http://192.168.99.98:8000/play/a0g1/index.m3u8
 #EXTINF:-1,Disney XD
 http://192.168.99.98:8000/play/a0h7/index.m3u8
+#EXTINF:-1,Distrito Comedia HD
+http://etvhome.com:25461/camilcar/camilcar123/97721
 #EXTINF:-1,E! Entertairment HD
 http://192.168.99.98:8000/play/a0gr/index.m3u8
 #EXTINF:-1,ESPN  +
@@ -101,6 +103,8 @@ http://192.168.99.98:8000/play/a0kj/index.m3u8
 http://192.168.99.98:8000/play/a0gw/index.m3u8
 #EXTINF:-1,FX Movies HD
 http://192.168.99.98:8000/play/a0gx/index.m3u8
+#EXTINF:-1,FiberPlay HD
+http://192.168.99.98:8000/play/a004/index.m3u8
 #EXTINF:-1,Film & arts HD
 http://192.168.99.98:8000/play/a0gs/index.m3u8
 #EXTINF:-1,Fox Sports  HD
@@ -121,9 +125,9 @@ http://192.168.99.98:8000/play/a0l6/index.m3u8
 http://192.168.99.98:8000/play/a0iq/index.m3u8
 #EXTINF:-1,HOLA! TV HD
 http://192.168.99.98:8000/play/a0hx/index.m3u8
-#EXTINF:-1,History Channel 2
+#EXTINF:-1,History 2
 http://192.168.99.98:8000/play/a0jp/index.m3u8
-#EXTINF:-1 tvg-id="HISTORY",History Channel HD
+#EXTINF:-1,History Channel HD
 http://192.168.99.98:8000/play/a0gk/index.m3u8
 #EXTINF:-1,Home & Health HD
 http://192.168.99.98:8000/play/a0hw/index.m3u8
@@ -209,14 +213,24 @@ http://192.168.99.98:8000/play/a0g9/index.m3u8
 http://192.168.99.98:8000/play/a0jw/index.m3u8
 #EXTINF:-1,TLC
 http://192.168.99.98:8000/play/a0hh/index.m3u8
+#EXTINF:-1,TLNovelas
+http://etvhome.com:25461/camilcar/camilcar123/14103
 #EXTINF:-1,TNT HD
 http://192.168.99.98:8000/play/a0hu/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://192.168.99.98:8000/play/a0km/index.m3u8
+#EXTINF:-1,TUDN HD
+http://etvhome.com:25461/camilcar/camilcar123/31576
+#EXTINF:-1,TVC Deportes HD
+http://etvhome.com:25461/camilcar/camilcar123/37723
 #EXTINF:-1,TVE
 http://192.168.99.98:8000/play/a0hm/index.m3u8
 #EXTINF:-1,Telemundo HD
 http://192.168.99.98:8000/play/a0gv/index.m3u8
+#EXTINF:-1,Tigo HD
+http://etvhome.com:25461/camilcar/camilcar123/87001
+#EXTINF:-1,Tigo Sports +
+http://etvhome.com:25461/camilcar/camilcar123/28554
 #EXTINF:-1,Tigo Sports HD
 http://192.168.99.98:8000/play/a0gn/index.m3u8
 #EXTINF:-1,Universal
@@ -227,21 +241,5 @@ http://192.168.99.98:8000/play/a0kr/index.m3u8
 http://192.168.99.98:8000/play/a0k1/index.m3u8
 #EXTINF:-1,WARNER HD
 http://192.168.99.98:8000/play/a0ho/index.m3u8
-#EXTINF:-1,CANAL 5 HD
-http://etvhome.com:25461/fiber/net/14070
-#EXTINF:-1,TUDN HD
-http://etvhome.com:25461/fiber/net/31576
-#EXTINF:-1,TVC DEPORTES HD
-http://etvhome.com:25461/fiber/net/37723
 #EXTINF:-1,beiN SPORTS Ñ HD
-http://etvhome.com:25461/fiber/net/90823
-#EXTINF:-1,AZTECA 7  HD
-http://etvhome.com:25461/fiber/net/14058
-#EXTINF:-1,TIGO SPORTS +
-http://etvhome.com:25461/fiber/net/28554
-#EXTINF:-1,TIGO HD
-http://etvhome.com:25461/fiber/net/87001
-#EXTINF:-1,DISTRITO COMEDIA HD
-http://etvhome.com:25461/fiber/net/97721
-#EXTINF:-1,TLNOVELAS
-http://etvhome.com:25461/fiber/net/14103
+http://etvhome.com:25461/camilcar/camilcar123/90823
