@@ -3,15 +3,15 @@
 http://192.168.99.98:8000/play/a0g2/index.m3u8
 #EXTINF:-1, CNN en Español
 http://192.168.99.98:8000/play/a0gi/index.m3u8
-#EXTINF:-1,A&E HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/A&E.jpg",A&E HD
 http://192.168.99.98:8000/play/a0gt/index.m3u8
 #EXTINF:-1,AMC HD
 http://192.168.99.98:8000/play/a0gu/index.m3u8
-#EXTINF:-1,AXN HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/AXN.jpg",AXN HD
 http://192.168.99.98:8000/play/a0iy/index.m3u8
 #EXTINF:-1,AZ click HD
 http://192.168.99.98:8000/play/a0gz/index.m3u8
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ANIMAL_PLANET.jpg",Animal Planet HD
 http://192.168.99.98:8000/play/a0gq/index.m3u8
 #EXTINF:-1,Azcorazon
 http://192.168.99.98:8000/play/a0g6/index.m3u8
