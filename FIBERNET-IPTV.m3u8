@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, CNN International
 http://192.168.99.98:8000/play/a0g2/index.m3u8
-#EXTINF:-1, CNN en Español
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CNN_ESPANOL.jpg",CNN en Español
 http://192.168.99.98:8000/play/a0gi/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/A&E.jpg",A&E HD
 http://192.168.99.98:8000/play/a0gt/index.m3u8
@@ -13,15 +13,15 @@ http://192.168.99.98:8000/play/a0iy/index.m3u8
 http://192.168.99.98:8000/play/a0gz/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ANIMAL_PLANET.jpg",Animal Planet HD
 http://192.168.99.98:8000/play/a0gq/index.m3u8
-#EXTINF:-1,Azcorazon
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/AZCORAZON.jpeg",Azcorazon
 http://192.168.99.98:8000/play/a0g6/index.m3u8
 #EXTINF:-1,Azmundo
 http://192.168.99.98:8000/play/a0h8/index.m3u8
 #EXTINF:-1,Azteca 7  HD
 http://etvhome.com:25461/camilcar/camilcar123/14058
-#EXTINF:-1,Boomerang
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/BOOMERANG.jpg",Boomerang
 http://192.168.99.98:8000/play/a0g0/index.m3u8
-#EXTINF:-1,CARTOON NT HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CARTOON_NETWORK.jpg",CARTOON NT HD
 http://192.168.99.98:8000/play/a0l0/index.m3u8
 #EXTINF:-1,CINECANAL HD
 http://192.168.99.98:8000/play/a0hq/index.m3u8
@@ -29,11 +29,11 @@ http://192.168.99.98:8000/play/a0hq/index.m3u8
 http://192.168.99.98:8000/play/a0jk/index.m3u8
 #EXTINF:-1,Canal 13-GUA
 http://192.168.99.98:8000/play/a0jj/index.m3u8
-#EXTINF:-1,Canal 3 - GUA
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CANAL3.png",Canal 3 - GUA
 http://192.168.99.98:8000/play/a0h5/index.m3u8
 #EXTINF:-1,Canal 5 HD
 http://192.168.99.98:8000/play/a005/index.m3u8
-#EXTINF:-1,Canal 7 - GUA
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CANAL_7_TELEVISIETE.jpg",Canal 7 - GUA
 http://192.168.99.98:8000/play/a0h4/index.m3u8
 #EXTINF:-1,Canal Antigua - GUA
 http://192.168.99.98:8000/play/a0h2/index.m3u8
@@ -45,15 +45,15 @@ http://192.168.99.98:8000/play/a0fv/index.m3u8
 http://192.168.99.98:8000/play/a0fw/index.m3u8
 #EXTINF:-1,Cine Latino
 http://192.168.99.98:8000/play/a0ik/index.m3u8
-#EXTINF:-1,CineMax
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CINEMAX.jpg",CineMax
 http://192.168.99.98:8000/play/a0il/index.m3u8
 #EXTINF:-1,Claro Cinema
 http://192.168.99.98:8000/play/a0hl/index.m3u8
-#EXTINF:-1,Claro Musica
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/claro_musica.jpg",Claro Musica
 http://192.168.99.98:8000/play/a0jt/index.m3u8
-#EXTINF:-1,Claro Sports  HD
+#EXTINF:-1,tvg-id="1011" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CLAROSPORT.jpg",Claro Sports  HD
 http://192.168.99.98:8000/play/a0kz/index.m3u8
-#EXTINF:-1,Comedy Central HD
+#EXTINF:-1,tvg-id="1012" tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/COMEDY_CENTRAL.jpg",Comedy Central HD
 http://192.168.99.98:8000/play/a0hy/index.m3u8
 #EXTINF:-1,Concert Channel HD
 http://192.168.99.98:8000/play/a0l1/index.m3u8
@@ -61,45 +61,45 @@ http://192.168.99.98:8000/play/a0l1/index.m3u8
 http://192.168.99.98:8000/play/a0gy/index.m3u8
 #EXTINF:-1,DISCOVERY THEATHER HD
 http://192.168.99.98:8000/play/a0hv/index.m3u8
-#EXTINF:-1,Discovery Channel HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/DISCOVERY_CHANNEL.jpg", Discovery Channel HD
 http://192.168.99.98:8000/play/a0kn/index.m3u8
 #EXTINF:-1,Discovery Home & Health
 http://192.168.99.98:8000/play/a0ib/index.m3u8
 #EXTINF:-1,Discovery ID HD
 http://192.168.99.98:8000/play/a0ks/index.m3u8
-#EXTINF:-1,Discovery Kids HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/DISCOVERY_KIDS.jpg",Discovery Kids HD
 http://192.168.99.98:8000/play/a0ko/index.m3u8
 #EXTINF:-1,Discovery Turbo
 http://192.168.99.98:8000/play/a0ia/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://192.168.99.98:8000/play/a0kp/index.m3u8
-#EXTINF:-1,Disney
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/DISNEY_CHANNEL.jpg" Disney Channel
 http://192.168.99.98:8000/play/a0i8/index.m3u8
-#EXTINF:-1,Disney JR
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/Disney_JR.jpg",Disney JR
 http://192.168.99.98:8000/play/a0g1/index.m3u8
-#EXTINF:-1,Disney XD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/DISNEY_XD.jpg",Disney XD
 http://192.168.99.98:8000/play/a0h7/index.m3u8
 #EXTINF:-1,Distrito Comedia HD
 http://etvhome.com:25461/camilcar/camilcar123/97721
 #EXTINF:-1,E! Entertairment HD
 http://192.168.99.98:8000/play/a0gr/index.m3u8
-#EXTINF:-1,ESPN  +
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ESPN+.jpg",ESPN  +
 http://192.168.99.98:8000/play/a0gl/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ESPN2.jpg",ESPN 2 HD
 http://192.168.99.98:8000/play/a0ki/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ESPN3.jpg",ESPN 3 HD
 http://192.168.99.98:8000/play/a0kh/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ESPN.jpg",ESPN HD
 http://192.168.99.98:8000/play/a0kg/index.m3u8
 #EXTINF:-1,El Gourmet
 http://192.168.99.98:8000/play/a0ku/index.m3u8
 #EXTINF:-1,Exa TV
 http://192.168.99.98:8000/play/a0hk/index.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/FOX_SPORTS2.jpg",FOX SPORTS 2 HD
 http://192.168.99.98:8000/play/a0ht/index.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/FOX_SPORTS3.jpg",FOX SPORTS 3 HD
 http://192.168.99.98:8000/play/a0kj/index.m3u8
-#EXTINF:-1,FX HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/FX.jpg",FX HD
 http://192.168.99.98:8000/play/a0gw/index.m3u8
 #EXTINF:-1,FX Movies HD
 http://192.168.99.98:8000/play/a0gx/index.m3u8
@@ -107,27 +107,27 @@ http://192.168.99.98:8000/play/a0gx/index.m3u8
 http://192.168.99.98:8000/play/a004/index.m3u8
 #EXTINF:-1,Film & arts HD
 http://192.168.99.98:8000/play/a0gs/index.m3u8
-#EXTINF:-1,Fox Sports  HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/FOX_SPORTS.jpg",Fox Sports  HD
 http://192.168.99.98:8000/play/a0ix/index.m3u8
-#EXTINF:-1,Golden
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/Golden.jpg",Golden
 http://192.168.99.98:8000/play/a0jv/index.m3u8
 #EXTINF:-1,Golf Channel HD
 http://192.168.99.98:8000/play/a0h1/index.m3u8
-#EXTINF:-1,HBO Family HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HBO_FAMILY.jpg",HBO Family HD
 http://192.168.99.98:8000/play/a0l5/index.m3u8
-#EXTINF:-1,HBO HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HBO.jpg",HBO HD
 http://192.168.99.98:8000/play/a0l2/index.m3u8
-#EXTINF:-1,HBO Plus HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HBO_PLUS.jpg",HBO Plus HD
 http://192.168.99.98:8000/play/a0l4/index.m3u8
-#EXTINF:-1,HBO XTREME HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HBO_XTREAME.jpg",HBO XTREME HD
 http://192.168.99.98:8000/play/a0l6/index.m3u8
-#EXTINF:-1,HBO2
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HBO_2.jpg",HBO2
 http://192.168.99.98:8000/play/a0iq/index.m3u8
 #EXTINF:-1,HOLA! TV HD
 http://192.168.99.98:8000/play/a0hx/index.m3u8
-#EXTINF:-1,History 2
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/H2.jpg",History 2
 http://192.168.99.98:8000/play/a0jp/index.m3u8
-#EXTINF:-1,History Channel HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/HISTORY_CHANNEL.jpg",History Channel HD
 http://192.168.99.98:8000/play/a0gk/index.m3u8
 #EXTINF:-1,Home & Health HD
 http://192.168.99.98:8000/play/a0hw/index.m3u8
