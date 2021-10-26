@@ -219,7 +219,7 @@ http://etvhome.com:25461/camilcar/camilcar123/31576
 http://etvhome.com:25461/camilcar/camilcar123/37723
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/tve.jpg",TVE
 http://192.168.99.98:8000/play/a0hm/index.m3u8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/TELEMUNDO_INTERNACIONAL.jpg",Telemundo HD
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/TELEMUNDO_%20INTERNACIONAL.jpg",Telemundo HD
 http://192.168.99.98:8000/play/a0gv/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/tigo.jpg",Tigo HD
 http://etvhome.com:25461/camilcar/camilcar123/87001
