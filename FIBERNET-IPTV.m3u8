@@ -41,7 +41,7 @@ http://192.168.99.98:8000/play/a0h2/index.m3u8
 http://192.168.99.98:8000/play/a0h3/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CANAL_CLARO.jpg",Canal Claro
 http://192.168.99.98:8000/play/a0fv/index.m3u8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/GUATEVISION.jpg",Canal Guatevision - GUA
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/GUATEVISION.jpg",Canal Guatevision - GU
 http://192.168.99.98:8000/play/a0fw/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CINELATINO.jpg",Cine Latino
 http://192.168.99.98:8000/play/a0ik/index.m3u8
