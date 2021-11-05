@@ -18,7 +18,7 @@ http://192.168.99.98:8000/play/a0g6/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/AZ_MUNDO.jpg",Azmundo
 http://192.168.99.98:8000/play/a0h8/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/AZTECA_7.jpg",Azteca 7  HD
-http://etvhome.com:25461/camilcar/camilcar123/14058
+http://192.168.99.98:8000/play/a00e/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/BOOMERANG.jpg",Boomerang
 http://192.168.99.98:8000/play/a0g0/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CARTOON_NETWORK.jpg",CARTOON NT HD
@@ -32,7 +32,7 @@ http://192.168.99.98:8000/play/a0jj/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CANAL3.png",Canal 3 - GUA
 http://192.168.99.98:8000/play/a0h5/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CANAL_5.jpg",Canal 5 HD
-http://192.168.99.98:8000/play/a005/index.m3u8
+http://192.168.99.98:8000/play/a00s/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/CANAL_7_TELEVISIETE.jpg",Canal 7 - GUA
 http://192.168.99.98:8000/play/a0h4/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/canal_antigua.png",Canal Antigua - GUA
@@ -80,7 +80,7 @@ http://192.168.99.98:8000/play/a0g1/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/DISNEY_XD.jpg",Disney XD
 http://192.168.99.98:8000/play/a0h7/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/distrito_comedia.png",Distrito Comedia HD
-http://etvhome.com:25461/camilcar/camilcar123/97721
+http://192.168.99.98:8000/play/a00n/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/E!.jpg",E! Entertairment HD
 http://192.168.99.98:8000/play/a0gr/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/ESPN+.jpg",ESPN  +
@@ -208,15 +208,13 @@ http://192.168.99.98:8000/play/a0jw/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/TLC.jpg",TLC
 http://192.168.99.98:8000/play/a0hh/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/TL_NOVELAS.jpg",TLNovelas
-http://etvhome.com:25461/camilcar/camilcar123/14103
+http://192.168.99.98:8000/play/a00m/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/TNT.png",TNT HD
 http://192.168.99.98:8000/play/a0hu/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/TNT_SERIES.png",TNT Series HD
 http://192.168.99.98:8000/play/a0km/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/TUDN.png",TUDN HD
-http://etvhome.com:25461/camilcar/camilcar123/31576
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/tvc.jpg",TVC Deportes HD
-http://etvhome.com:25461/camilcar/camilcar123/37723
+http://192.168.99.98:8000/play/a00g/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/tve.jpg",TVE
 http://192.168.99.98:8000/play/a0hm/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/TELEMUNDO_%20INTERNACIONAL.jpg",Telemundo HD
@@ -233,5 +231,15 @@ http://192.168.99.98:8000/play/a0ih/index.m3u8
 http://192.168.99.98:8000/play/a0kr/index.m3u8
 #EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-02/main/WARNER.jpg",WARNER HD
 http://192.168.99.98:8000/play/a0ho/index.m3u8
-#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/BEIN_SPORTS.jpg",beiN SPORTS Ñ HD
-http://etvhome.com:25461/camilcar/camilcar123/90823
+#EXTINF:-1,tvg-logo="https://raw.githubusercontent.com/FIBERNET-LR/LOGOSIPTV-01/main/BEIN_SPORTS.jpg",BEIN SPORTS HD
+http://192.168.99.98:8000/play/a00l/index.m3u8
+#EXTINF:-1,DIRECTV SPORTS HD
+http://192.168.99.98:8000/play/a00p/index.m3u8
+#EXTINF:-1,LAS ESTRELLAS HD
+http://192.168.99.98:8000/play/a00f/index.m3u8
+#EXTINF:-1,SKY SPORTS HD
+http://192.168.99.98:8000/play/a00j/index.m3u8
+#EXTINF:-1,TYC SPORTS HD
+http://192.168.99.98:8000/play/a00h/index.m3u8
+#EXTINF:-1,WIN SPORTS HD
+http://192.168.99.98:8000/play/a00q/index.m3u8
