@@ -129,8 +129,6 @@ http://192.168.99.98:8000/play/a0jp/index.m3u8
 http://192.168.99.98:8000/play/a0gk/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.98:8000/FIBERPLAY-IPTV/tvg-logo/a0hw.png",Home & Health HD
 http://192.168.99.98:8000/play/a0hw/index.m3u8
-#EXTINF:-1 tvg-logo="http://192.168.99.98:8000/FIBERPLAY-IPTV/tvg-logo/a00f.png",LAS ESTRELLAS HD
-http://192.168.99.98:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.98:8000/FIBERPLAY-IPTV/tvg-logo/a0gb.png",LIFE TIME
 http://192.168.99.98:8000/play/a0gb/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.98:8000/FIBERPLAY-IPTV/tvg-logo/a0id.png",La voz de Maria
