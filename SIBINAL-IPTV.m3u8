@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,GOL TV HD
+http://ui.mrzutv.net:8080/fibernet/fibernet/65897
+#EXTINF:-1,BEIN SPORTS HD
+http://ui.mrzutv.net:8080/fibernet/fibernet/20669
+#EXTINF:-1,TUDN HD
+http://ui.mrzutv.net:8080/fibernet/fibernet/26729
+#EXTINF:-1,MOVISTAR  LA LIGA
+http://ui.mrzutv.net:8080/fibernet/fibernet/65845
+#EXTINF:-1,MOVISTAR  LA LIGA 2
+http://ui.mrzutv.net:8080/fibernet/fibernet/65852
+#EXTINF:-1,TL NOVELAS
+http://ui.mrzutv.net:8080/fibernet/fibernet/3963
