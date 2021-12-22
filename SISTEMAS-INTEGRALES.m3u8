@@ -19,6 +19,8 @@ http://192.168.99.60:8000/play/a0h8/index.m3u8
 http://192.168.99.60:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a015.png",Azteca Uno
 http://192.168.99.60:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a01x.png",BEIN SPORTS HD
+http://192.168.99.60:8000/play/a01x/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0g0.png",Boomerang
 http://192.168.99.60:8000/play/a0g0/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0l0.png",CARTOON NT HD
@@ -111,6 +113,8 @@ http://192.168.99.60:8000/play/a0gx/index.m3u8
 http://192.168.99.60:8000/play/a0gs/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0ix.png",Fox Sports  HD
 http://192.168.99.60:8000/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a01w.png",GOL TV HD
+http://192.168.99.60:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0jv.png",Golden
 http://192.168.99.60:8000/play/a0jv/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0h1.png",Golf Channel HD
@@ -143,6 +147,10 @@ http://192.168.99.60:8000/play/a01b/index.m3u8
 http://192.168.99.60:8000/play/a0id/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a017.png",Las Estrellas
 http://192.168.99.60:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a01z.png",MOVISTAR  LA LIGA
+http://192.168.99.60:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a020.png",MOVISTAR  LA LIGA 2
+http://192.168.99.60:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0if.png",MTV
 http://192.168.99.60:8000/play/a0if/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0i0.png",MTV 00s HD
@@ -223,12 +231,16 @@ http://192.168.99.60:8000/play/a0gj/index.m3u8
 http://192.168.99.60:8000/play/a0g9/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0jw.png",TCM
 http://192.168.99.60:8000/play/a0jw/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a021.png",TL NOVELAS
+http://192.168.99.60:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0hh.png",TLC
 http://192.168.99.60:8000/play/a0hh/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0hu.png",TNT HD
 http://192.168.99.60:8000/play/a0hu/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0km.png",TNT Series HD
 http://192.168.99.60:8000/play/a0km/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a01y.png",TUDN HD
+http://192.168.99.60:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0hm.png",TVE
 http://192.168.99.60:8000/play/a0hm/index.m3u8
 #EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a0gv.png",Telemundo HD
