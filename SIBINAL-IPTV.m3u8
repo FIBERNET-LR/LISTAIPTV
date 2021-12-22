@@ -1,13 +1,12 @@
 #EXTM3U
-#EXTINF:-1,GOL TV HD
-http://ui.mrzutv.net:8080/fibernet/fibernet/65897
-#EXTINF:-1,BEIN SPORTS HD
-http://ui.mrzutv.net:8080/fibernet/fibernet/20669
-#EXTINF:-1,TUDN HD
-http://ui.mrzutv.net:8080/fibernet/fibernet/26729
-#EXTINF:-1,MOVISTAR  LA LIGA
-http://ui.mrzutv.net:8080/fibernet/fibernet/65845
-#EXTINF:-1,MOVISTAR  LA LIGA 2
-http://ui.mrzutv.net:8080/fibernet/fibernet/65852
-#EXTINF:-1,TL NOVELAS
-http://ui.mrzutv.net:8080/fibernet/fibernet/3963
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a01w.png",GOL TV HD
+http://192.168.99.60:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a01x.png",BEIN SPORTS HD
+http://192.168.99.60:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a01y.png",TUDN HD
+http://192.168.99.60:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a01z.png",MOVISTAR  LA LIGA
+http://192.168.99.60:8000/play/a01z/index.m3u8
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a020.png",MOVISTAR  LA LIGA 2
+#EXTINF:-1 tvg-logo="http://192.168.99.60:8000/SIS-INTEGRALES-IPTV/tvg-logo/a021.png",TL NOVELAS
+http://192.168.99.60:8000/play/a021/index.m3u8
